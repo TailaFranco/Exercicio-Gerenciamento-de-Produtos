@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\bin\Debug\netcoreapp3.1\Exercício - Sistema de produtos.exe
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\bin\Debug\netcoreapp3.1\Exercício - Sistema de produtos.deps.json
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\bin\Debug\netcoreapp3.1\Exercício - Sistema de produtos.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\bin\Debug\netcoreapp3.1\Exercício - Sistema de produtos.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\bin\Debug\netcoreapp3.1\Exercício - Sistema de produtos.dll
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\bin\Debug\netcoreapp3.1\Exercício - Sistema de produtos.pdb
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\obj\Debug\netcoreapp3.1\Exercício - Sistema de produtos.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\obj\Debug\netcoreapp3.1\Exercício - Sistema de produtos.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\obj\Debug\netcoreapp3.1\Exercício - Sistema de produtos.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\obj\Debug\netcoreapp3.1\Exercício - Sistema de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\obj\Debug\netcoreapp3.1\Exercício - Sistema de produtos.dll
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\obj\Debug\netcoreapp3.1\Exercício - Sistema de produtos.pdb
+C:\Users\Taila\Desktop\Dev\Exercício - Sistema de produtos\obj\Debug\netcoreapp3.1\Exercício - Sistema de produtos.genruntimeconfig.cache
